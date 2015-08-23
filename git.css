@@ -125,7 +125,7 @@ PAGE: ABOUT
 ***********************/
 .profile-photo {
   display: block;
-  max-width: 150px;
+  max-width: 300px;
   margin: 0 auto 30px;
   border-radius: 100%;
 }
