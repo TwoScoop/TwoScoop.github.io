@@ -2,10 +2,11 @@
 GENERAL
 ***********************/
 body {
-  width: 968px;
+  width: 100%;
 }
 
 #wrapper {
+  width: 968px;
   margin: auto;
   padding: 0;
 }
