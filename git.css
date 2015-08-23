@@ -67,7 +67,7 @@ HEADING
 ***********************/
 header {
   float: left;
-  margin: auto;
+  margin: 0;
   padding: 100px 0;
   width: 100%;
   background-image: url('http://www.imaginalhour.com/wp-content/uploads/2013/01/I-made-a-wallpaper-from-the-Hubble-ultra-deep-picture-what-do-you-think-Imgur.jpg');
@@ -75,11 +75,7 @@ header {
 
 #top {
   text-align: center;
-  margin: auto;
-}
-
-a: {
-  color: E0E0E0;	
+  margin: 0;
 }
 
 h2 {
@@ -213,4 +209,4 @@ PAGE: PORTFOLIO
   width: 28.3333%;
 }
 
-}
+
