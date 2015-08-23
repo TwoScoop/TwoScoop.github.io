@@ -58,7 +58,12 @@ p {
   margin-top: 50px;
 }
 
-a:link, a:visited {
+a:visited {
+  color: none;
+}
+
+a:link {
+color: white;
 text-decoration: none;
 }
 
