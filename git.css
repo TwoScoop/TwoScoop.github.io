@@ -184,6 +184,10 @@ PAGE: CONTACT
 	margin: auto;
 }
 
+#contact {
+  text-align: center;
+}
+
 
 /***********************
 FOOTER
