@@ -75,11 +75,15 @@ header {
   margin: auto;
 }
 
+a: {
+  color: E0E0E0;	
+}
+
 h2 {
   color: white; 
   font-family: "Roboto", sans-serif;
   margin: 15px 0;
-  font-size: 3em;
+  font-size: 4em;
   line-height: 0.8em;
 }
 
