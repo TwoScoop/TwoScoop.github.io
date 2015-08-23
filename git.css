@@ -59,12 +59,11 @@ p {
 }
 
 a:link, a:visited {
-color: #FFAACC;
 text-decoration: none;
 }
 
 a:hover, a:active {
-color: #EE99BB;
+color: skyblue;
 text-decoration: underline;
 }
 
@@ -93,7 +92,7 @@ h2 {
   color: white; 
   font-family: "Roboto", sans-serif;
   margin: 15px 0;
-  font-size: 3.5em;
+  font-size: 3.3em;
   line-height: 0.8em;
 }
 
@@ -139,7 +138,7 @@ PAGE: ABOUT
 ***********************/
 .profile-photo {
   display: block;
-  max-width: 275px;
+  max-width: 250px;
   margin: 0 auto 30px;
   border-radius: 100%;
 }
