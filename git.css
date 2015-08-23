@@ -58,6 +58,9 @@ p {
   margin-top: 50px;
 }
 
+a: hover {
+  color: skyblue;
+}
 
 /***********************
 HEADING
