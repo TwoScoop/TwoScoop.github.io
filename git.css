@@ -51,6 +51,8 @@ img {
 .dark-underline {
   border-bottom: solid 1px;
   margin: 0px 2.5%;
+  font-size: 1.5em;
+  font-style: italic;
 }
 
 p {
@@ -83,7 +85,7 @@ h2 {
 	line-height: 0.8em;
 }
 
-h5 {
+h4 {
   color: #E0E0E0;
 }
 
@@ -115,9 +117,6 @@ nav a {
 	padding: 15px 10px;
 }
 
-nav a:hover {
-	color: skyblue;
-}
 
 
 /***********************
@@ -212,3 +211,20 @@ footer {
 	}
 
 
+.hvr-grow {
+    display: inline-block;
+    vertical-align: middle;
+    transform: translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    transition-duration: 0.3s;
+    transition-property: transform;
+}
+
+.hvr-grow:hover,
+.hvr-grow:focus,
+.hvr-grow:active {
+    transform: scale(1.1);
+}
+  
