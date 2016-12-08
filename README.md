@@ -1,11 +1,11 @@
-# TwoScoop.github.io
+# aBuzzLife.github.io
 
 My Github user page is at: 
-https://github.com/TwoScoop/
+https://github.com/aBuzzLife/
 
 My Github Pages repo can be found at:  
-https://github.com/TwoScoop/TwoScoop.github.io/
+https://github.com/aBuzzLife/aBuzzLife.github.io/
 
 And, soon, you can see my customized homepage at:
 
-http://TwoScoop.github.io/
+http://aBuzzLife.github.io/
